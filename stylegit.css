@@ -12,3 +12,6 @@ h1{
     word-spacing: 1rem;
     padding: 100px 100px;
 }
+ul li{
+    text-decoration:none;
+}
